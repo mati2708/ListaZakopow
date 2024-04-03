@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211067582462",
+    "project_id": "listazakopow-a789f",
+    "storage_bucket": "listazakopow-a789f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211067582462:android:36864a9fb5cb1275de72af",
+        "android_client_info": {
+          "package_name": "com.example.lista_zakupow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvhwLh3CNwRx_TRduBOK9bWrvNA9qckM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
